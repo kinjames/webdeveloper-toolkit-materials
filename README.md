@@ -1,6 +1,4 @@
-# webdeveloper-toolkit-materials
-
-##Title: Building Your Web Development Toolkit: Empowering Efficiency and Innovation
+#Title: Building Your Web Development Toolkit: Empowering Efficiency and Innovation
 
 <h1>Introduction:</h1>
 "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
