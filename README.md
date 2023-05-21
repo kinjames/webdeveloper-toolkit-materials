@@ -49,6 +49,7 @@ Heroku (Download: [https://www.heroku.com/]) simplifies the deployment process, 
 Armed with these essential tools, you're well-equipped to embark on your web development journey. Remember, every tool has its strengths and weaknesses, so choose wisely based on your project's requirements. Embrace the opportunities these tools offer, while remaining aware of potential drawbacks. Now, go forth and create amazing web experiences!
 
 <h3>Author:</h3>
+<p>James</p>
 
 
 
